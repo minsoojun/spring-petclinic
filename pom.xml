@@ -234,7 +234,7 @@
                 <violationSeverity>warning</violationSeverity>
                 <outputFile>target/site/checkstyle/checkstyle-result.xml</outputFile>
             </configuration>
-        </plugin
+        </plugin>
     </plugins>
   </reporting>
 
